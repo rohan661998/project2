@@ -8,6 +8,7 @@ function App() {
       <h2>Second Change</h2>
       <h3>Third Change</h3>
       <h2>Fourth change</h2>
+      <h2>Feature for feature1 branch</h2>
     </div>
   );
 }
